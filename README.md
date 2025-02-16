@@ -64,7 +64,7 @@ MPedia Math AI Assistant adalah platform pembelajaran matematika berbasis AI yan
 
 ```bash
 # Clone repository
-git clone https://github.com/username/mpedia-math-tutor.git
+git clone https://github.com/classyid/mpedia-math-tutor.git
 
 # Install dependencies
 pip install flask langchain-ollama
